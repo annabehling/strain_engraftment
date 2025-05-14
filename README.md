@@ -1,4 +1,4 @@
-# strain_engraftment_analysis
+# strain_engraftment
 
 ## The Gut Bugs Trial
 
